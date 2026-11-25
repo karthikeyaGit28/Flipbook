@@ -2,7 +2,7 @@
 
 An interactive MGT402 flipbook about how generative AI is changing creative industries, intellectual property, and the people and businesses connected to them.
 
-**Read it online:** [Open the flipbook](https://karthikeyagit28.github.io/Flipbook/)
+**Public link:** https://karthikeyagit28.github.io/Flipbook/
 
 ## What the flipbook covers
 
